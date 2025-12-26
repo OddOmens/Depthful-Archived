@@ -14,12 +14,6 @@ Depthful is a thoughtful journaling app designed to help you capture, organize, 
 - **Customization**: Dark mode support, custom app icons, and theme options.
 - **Local First**: All data is stored locally on device using Core Data.
 
-## Requirements
-
-- iOS 17.4+
-- Xcode 15.0+
-- Swift 5.0+
-
 ## Getting Started
 
 1. Clone the repository.
@@ -36,9 +30,10 @@ The app is built using modern SwiftUI practices:
 - **AVFoundation**: For voice recording and playback.
 - **Speech**: For voice-to-text transcription.
 
-## Privacy
+## Requirements
 
-Depthful was designed with privacy in mind. All data is stored locally on the user's device. No data is collected or transmitted to external servers.
+*   Xcode 15.0+
+*   iOS 17.0+
 
 ## Disclaimer
 
